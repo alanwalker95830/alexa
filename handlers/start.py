@@ -16,15 +16,15 @@ Use the buttons below to know more about me.""",
             [
                 [
                     InlineKeyboardButton(
-                        "⚒ Commands", url="https://telegra.ph/MusicBot-Robot-MusicBot-Robo-03-14"
+                        "⚒ Commands", url="none"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/miakhalifachatgroup"
+                        "💬 Group", url="https://t.me/meiyduoffsti"
                     ),
                     InlineKeyboardButton(
-                        "Channel 🔈", url="https://t.me/CheemsUserbot"
+                        "Channel 🔈", url="https://t.me/gjxilju"
                     )
                 ]
             ]
