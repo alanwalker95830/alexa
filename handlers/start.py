@@ -16,7 +16,7 @@ Use the buttons below to know more about me.""",
             [
                 [
                     InlineKeyboardButton(
-                        "⚒ Commands", url="none"
+                        "owner", url="https:t.me/AwaIker96"
                     )
                 ],
                 [
